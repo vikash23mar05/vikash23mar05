@@ -6,7 +6,6 @@
 ║    const vikash = {                                          ║
 ║      role:     "Full-Stack Developer",                       ║
 ║      focus:    "Building AI-powered web experiences",        ║
-║      vibe:     "Shipping products, not just code 🚀",        ║
 ║      stack:    ["Next.js", "Node.js", "TypeScript", "AI"],   ║
 ║    };                                                        ║
 ║                                                              ║
@@ -17,24 +16,19 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hey, I'm **Vikash** — a Full-Stack Developer who loves building things that are both useful and beautiful. I specialise in crafting end-to-end web applications using modern JavaScript technologies, and I'm deeply passionate about integrating AI to make software smarter and more intuitive.
+I'm **Vikash** — a Full-Stack Developer focused on building end-to-end web applications that are both performant and purposeful. I work across the stack with **React & Next.js** on the frontend and **Node.js** on the backend, and I'm increasingly focused on integrating AI and language models into practical products.
 
-I spend my days working across the stack — designing clean UIs with **React & Next.js**, building scalable APIs with **Node.js**, and increasingly exploring how large language models and generative AI can supercharge everyday products.
+I care about clean architecture, good developer experience, and shipping software that solves real problems.
 
-When I'm not writing code, I'm either vibe-coding a new idea at midnight or figuring out how to ship that one project that's been living in my Notion for weeks. 👀
-
-- 🔭 Currently working on **Nexel** — an AI-powered learning workspace
-- 🌱 Exploring **LLM integrations**, **vector search**, and **RAG pipelines**
-- 💡 Believer in learning by building
-- 📍 Based in India
+- Currently building **Nexel** — an AI-powered learning workspace
+- Exploring LLM integrations, vector search, and RAG pipelines
+- Based in India
 
 ---
 
-## 🧰 My Toolbox
-
-> Powered by [skill-icons](https://github.com/tandpfun/skill-icons) — add `?theme=dark` for dark mode icons.
+## Technical Skills
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark)](https://skillicons.dev)
@@ -42,103 +36,64 @@ When I'm not writing code, I'm either vibe-coding a new idea at midnight or figu
 ### Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
-### AI & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,openai,vercel,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
-> 💡 **How to customise this section:**
-> The URL format is `https://skillicons.dev/icons?i=react,nextjs,...&theme=dark`
-> Browse all available icons at [skillicons.dev](https://skillicons.dev)
+### Tools & Platform
+[![My Skills](https://skillicons.dev/icons?i=python,vercel,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Project
 
-### 🧠 [Nexel — AI-Powered Learning Workspace](https://github.com/vikash23mar05/Nexel)
+### [Nexel — AI-Powered Learning Workspace](https://github.com/vikash23mar05/Nexel)
 
-> *Transform static PDFs into interactive, AI-driven knowledge*
+*Transform static PDFs into interactive, AI-driven knowledge.*
 
 | | |
 |---|---|
-| **What it does** | Upload PDFs → Highlight text → Get instant AI notes, summaries, and visual diagrams. Chat with your documents. Turn notes into educational videos. |
+| **What it does** | Upload PDFs, highlight text, and get instant AI-generated notes, summaries, and visual diagrams. Ask questions directly to your documents via semantic search and vector embeddings. |
 | **Tech Stack** | Next.js · Node.js · TypeScript · Vector Embeddings · Semantic Search |
-| **Status** | 🟢 Active Development |
+| **Status** | Active Development |
 
-<!-- 📸 Add a screenshot below — replace the placeholder URL with your actual screenshot -->
-<!--
-![Nexel Screenshot](https://raw.githubusercontent.com/vikash23mar05/Nexel/main/public/screenshot.png)
--->
+**Capabilities:**
+- Highlight any PDF text and receive concise AI notes, bullet summaries, and simplified explanations
+- Conversational interface to query uploaded documents
+- Automatic conversion of complex paragraphs into flowcharts and mind maps
+- Experimental: generate short educational videos from notes with animated captions
 
-**Key Features:**
-- 🖊️ Highlight any PDF text → AI instantly generates notes, summaries & explanations
-- 💬 Chat directly with your uploaded documents
-- 🗺️ Auto-generate flowcharts and mindmaps from complex paragraphs
-- 🎬 Experimental: Convert notes into educational videos with animated captions
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05/Nexel)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05/Nexel)
 
 ---
 
-<!-- ➕ PROJECT 2 — Duplicate this block for more projects -->
-<!--
-### ⚡ [Project Name](https://github.com/vikash23mar05/your-repo)
-
-> *One-line description*
-
-**Tech Stack:** React · Node.js · MongoDB
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05/your-repo)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-project.vercel.app)
--->
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vikash23mar05&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" alt="Vikash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash23mar05&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash23mar05&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash23mar05&theme=tokyo-night&hide_border=true" alt="GitHub Streak" width="60%" />
-
-</div>
-
 ---
 
-## 🌐 Let's Connect
+## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Kumar%20Vivek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-vivek/)
 [![GitHub](https://img.shields.io/badge/GitHub-vikash23mar05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05)
 
-<!-- Add more links when ready:
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.dev-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.dev)
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
--->
-
 </div>
 
 ---
 
-## 💬 Let's Build Something
-
 <div align="center">
 
-*I'm always open to interesting projects, collaborations, or just a good tech conversation.*
-*If you're building something ambitious with AI or full-stack web — let's talk.*
+I'm open to collaborations, interesting projects, and conversations about AI-driven product development.
 
-**[📩 Reach me on LinkedIn](https://www.linkedin.com/in/vikash-kumar-vivek/)**
+**[Get in touch via LinkedIn](https://www.linkedin.com/in/vikash-kumar-vivek/)**
 
----
+<br/>
 
 *"The best way to predict the future is to build it."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vikash23mar05&color=1a1b27&style=flat-square&label=Profile+Views)
 
 </div>
