@@ -1,43 +1,30 @@
-<div align="center">
+# Vikash Kumar
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    const vikash = {                                          ║
-║      role:     "Full-Stack Developer",                       ║
-║      focus:    "Building AI-powered web experiences",        ║
-║      stack:    ["Next.js", "Node.js", "TypeScript", "AI"],   ║
-║    };                                                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**`Full-Stack Developer · AI Builder · Open Source Enthusiast`**
 
-</div>
+I'm a full-stack developer focused on building AI-powered web products from the ground up — from architecture and design, all the way to deployment. I work with React, Next.js, and Node.js on the frontend and backend, and I'm deeply invested in integrating large language models and AI into practical, real-world applications. Currently building [Nexel](https://github.com/vikash23mar05/Nexel) — a next-generation AI-powered learning workspace that transforms static PDFs into interactive knowledge.
 
----
+<br/>
 
-## About Me
-
-I'm **Vikash** — a Full-Stack Developer focused on building end-to-end web applications that are both performant and purposeful. I work across the stack with **React & Next.js** on the frontend and **Node.js** on the backend, and I'm increasingly focused on integrating AI and language models into practical products.
-
-I care about clean architecture, good developer experience, and shipping software that solves real problems.
-
-- Currently building **Nexel** — an AI-powered learning workspace
-- Exploring LLM integrations, vector search, and RAG pipelines
-- Based in India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-vivek/)
+[![GitHub followers](https://img.shields.io/github/followers/vikash23mar05?label=Followers&style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/vikash23mar05)
+[![GitHub stars](https://img.shields.io/github/stars/vikash23mar05?label=Stars&style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/vikash23mar05)
 
 ---
 
 ## Technical Skills
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark)](https://skillicons.dev)
+**Frontend**
 
-### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-### Tools & Platform
-[![My Skills](https://skillicons.dev/icons?i=python,vercel,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+**Backend & Database**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark)](https://skillicons.dev)
+
+**Tools & Platform**
+
+[![Skills](https://skillicons.dev/icons?i=python,vercel,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -59,7 +46,7 @@ I care about clean architecture, good developer experience, and shipping softwar
 - Automatic conversion of complex paragraphs into flowcharts and mind maps
 - Experimental: generate short educational videos from notes with animated captions
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05/Nexel)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vikash23mar05/Nexel)
 
 ---
 
@@ -70,17 +57,6 @@ I care about clean architecture, good developer experience, and shipping softwar
   <img src="https://github-readme-stats.vercel.app/api?username=vikash23mar05&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash23mar05&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Kumar%20Vivek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-vivek/)
-[![GitHub](https://img.shields.io/badge/GitHub-vikash23mar05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikash23mar05)
 
 </div>
 
